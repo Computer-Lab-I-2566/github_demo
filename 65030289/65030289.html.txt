@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume</title>
-    
-</head>
-<body>
-    <link rel="stylesheet" href="style.css">
-    <h1>Resume</h1>
+
     <p><b>ชือ-นามสกุล</b> : อัญชิสา เพชรน้อย <br>
         <b>Email :</b> 0928395453b@gmail.com <br>
         <b>เบอร์โทร : </b> 092-839-5453 <br>
@@ -26,14 +16,7 @@
         <b>ความสามามรถด้าน software : </b>  HTML / CSS / PYTHON / CHATGPT
         <b></b>
 
-    </p>
-    
-
-    
-</body>
-</html>
-
-
+   
 
 
 
