@@ -1,5 +1,11 @@
-
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
     ประวัติการศึกษา <br>
   อนุบาล 1-3 จาก โรงเรียนบ้านหนองมงคล<br>
  ปฐมศึกษา 1-3 จาก โรงเรียนบ้านหนองมงคล<br>
@@ -17,7 +23,7 @@
 ไม่มี<br>
     สามารถใช้ style sheet หรือ script ได้ และควรแยกเป็นไฟล์ต่างหาก<br>
 ไม่มี<br>
+</body>
+</html>
 
     
-
-   
