@@ -1,4 +1,7 @@
 # github_demo
 
-Computer Laboratory I
-Github Desktop training.
+<html>
+	<H1>ประวัติการศึกษา</H1>
+	<H3>ชั้นประถม ศึกษาใน โรงเรียนวัดคู้บอน</H3>
+	<H3>ชั้นมัธยม ศึกษาใน โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี)๒</H3>
+</html>
